@@ -32,12 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 6000,
 
       "messages": [
-        " ",
-        " ",
-        "."
+        "Sapne chhote ho ya bade,Minecraft mein sab possible hai",
+        "Hamesha thoda extra wood cary karo kab kaam aa jaaye pata nahi",
+        "Lost ho gaye ? Compass hamesha apne spawn point pe le jaata hai"
       ]
     },
 
