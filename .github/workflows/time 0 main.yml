@@ -1,4 +1,4 @@
-name: Auto Run Bot Every 5h40m
+name: time 0
 
 on:
   schedule:
