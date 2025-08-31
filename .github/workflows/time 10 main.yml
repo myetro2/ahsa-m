@@ -2,7 +2,7 @@ name: time 10
 on:
   schedule:
     # Har 5h40m ke interval ka cron (poore din repeat hoga)
-    - cron: '0 10 * * *'
+    - cron: '0 12 * * *'
 jobs:
   run-bot:
     runs-on: ubuntu-latest
