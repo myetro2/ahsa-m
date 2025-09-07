@@ -1,4 +1,4 @@
-name: time 10
+name: time 12
 on:
   schedule:
     # Har 5h40m ke interval ka cron (poore din repeat hoga)
