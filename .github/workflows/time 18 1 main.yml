@@ -1,7 +1,7 @@
 name: time 18
 
 on:
-  1schedule:
+  schedule:
     # Har 5h40m ke interval ka cron (poore din repeat hoga)
     - cron: '0 18 * * *'
 jobs:
